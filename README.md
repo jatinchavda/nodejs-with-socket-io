@@ -8,3 +8,9 @@ To deploy this project run
 ```bash
   npm run start
 ```
+
+socket.io client side URL
+
+```bash
+http://localhost:3000/home
+```
